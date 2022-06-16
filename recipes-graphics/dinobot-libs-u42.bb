@@ -1,0 +1,6 @@
+SRCDATE = "20210607"
+
+require dinobot-libs2.inc
+
+SRC_URI[md5sum] = "ec2f34e23e52a65ca8592fbc87731e70"
+SRC_URI[sha256sum] = "2f3299d9fe12e6c941f5c2232f69347282109a56194e9c3647ee53c33b7ed393"
